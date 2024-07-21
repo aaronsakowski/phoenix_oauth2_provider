@@ -1,1 +1,1 @@
-<%= render Phoenix.Controller.view_module(@conn), Phoenix.Controller.view_template(@conn), assigns %>
+<%= @inner_content %>
